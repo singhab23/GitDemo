@@ -18,4 +18,4 @@ public class AppTest
         assertTrue( true );
     }
 }
-//Test the auto trigger     
+//Test the auto trigger                   
