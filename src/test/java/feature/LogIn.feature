@@ -12,4 +12,4 @@ Scenario: Home page default login
 Given User is on Netbanking landing page
 When User logs in to the application using the username "jim" and password "4321"
 Then Home page is populated
-And Cards displayed are "false"
+And Cards displayed are "false" 
